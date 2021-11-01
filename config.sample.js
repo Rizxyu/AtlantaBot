@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "OTA0NTc3NjY3MTMzNzU1NDQ0.YX9jmg.t97z_TrRhfvedpdjcXhn_jSTtDc",
 	/* For the support server */
 	support: {
 		id: "XXXXXXXXXXX", // The ID of the support server
@@ -57,7 +57,7 @@ module.exports = {
 	/* The Bot status */
 	status: [
 		{
-			name: "@Atlanta help on {serversCount} servers",
+			name: "@Xyueen help on {serversCount} servers",
 			type: "LISTENING"
 		},
 		{
